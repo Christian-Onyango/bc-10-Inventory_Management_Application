@@ -48,7 +48,7 @@ def assetvalue():
     print(c.fetchall())
 
 create_table()
-add("name", "description", "total_amount_available", "cost_per_item", "status"):
+add("name", "description", 10, 5.0, 1):
 
     
 
