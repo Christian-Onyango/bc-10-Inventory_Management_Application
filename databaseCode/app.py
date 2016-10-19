@@ -23,7 +23,7 @@ Options:
 import sys
 import cmd
 from docopt import docopt, DocoptExit
-from databaseCode import inventoryupdated
+import inventoryupdated
 
 
 def docopt_cmd(func):
