@@ -1,0 +1,6 @@
+id,name,total_amount_available,cost_per_item,date_added,status,description
+2,Cars,60,1234.54,2016-10-20,checked in,cars available for sale or hire
+3,Televisions,200,300.56,2016-10-20,checked in,samsung televisions for sale
+4,Books,400,28.5,2016-10-20,checked in,books brought for technology
+5,Rides,20,2.3,2016-10-20,checked in,rides for hire
+6,Bags,20,2.3,2016-10-20,checked in,bags for sale
