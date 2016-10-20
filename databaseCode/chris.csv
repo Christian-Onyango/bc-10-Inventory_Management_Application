@@ -1,0 +1,4 @@
+id,name,total_amount_available,cost_per_item,date_added,status,description
+1,Cars,30,1250.5,2016-10-20,checked in,cars brought in for government
+3,Books,300,12.58,2016-10-20,checked in,books for primary kids
+4,Phones,60,120.45,2016-10-20,checked in,phones imported for sale
